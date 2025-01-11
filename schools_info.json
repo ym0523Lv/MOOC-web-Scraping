@@ -1,0 +1,1946 @@
+[
+    {
+        "name": "北京大学",
+        "link": "https://www.icourse163.org/university/PKU"
+    },
+    {
+        "name": "南京大学",
+        "link": "https://www.icourse163.org/university/NJU"
+    },
+    {
+        "name": "浙江大学",
+        "link": "https://www.icourse163.org/university/ZJU"
+    },
+    {
+        "name": "复旦大学",
+        "link": "https://www.icourse163.org/university/FUDAN"
+    },
+    {
+        "name": "北京航空航天大学",
+        "link": "https://www.icourse163.org/university/BUAA"
+    },
+    {
+        "name": "武汉大学",
+        "link": "https://www.icourse163.org/university/WHU"
+    },
+    {
+        "name": "北京理工大学",
+        "link": "https://www.icourse163.org/university/BIT"
+    },
+    {
+        "name": "中国农业大学",
+        "link": "https://www.icourse163.org/university/CAU"
+    },
+    {
+        "name": "北京师范大学",
+        "link": "https://www.icourse163.org/university/BNU"
+    },
+    {
+        "name": "中央民族大学",
+        "link": "https://www.icourse163.org/university/MUC"
+    },
+    {
+        "name": "南开大学",
+        "link": "https://www.icourse163.org/university/NKU"
+    },
+    {
+        "name": "天津大学",
+        "link": "https://www.icourse163.org/university/TJU"
+    },
+    {
+        "name": "大连理工大学",
+        "link": "https://www.icourse163.org/university/DUT"
+    },
+    {
+        "name": "吉林大学",
+        "link": "https://www.icourse163.org/university/JLU"
+    },
+    {
+        "name": "哈尔滨工业大学",
+        "link": "https://www.icourse163.org/university/HIT"
+    },
+    {
+        "name": "东北大学",
+        "link": "https://www.icourse163.org/university/NEU"
+    },
+    {
+        "name": "同济大学",
+        "link": "https://www.icourse163.org/university/TONGJI"
+    },
+    {
+        "name": "上海交通大学",
+        "link": "https://www.icourse163.org/university/SJTU"
+    },
+    {
+        "name": "华东师范大学",
+        "link": "https://www.icourse163.org/university/ECNU"
+    },
+    {
+        "name": "中国人民大学",
+        "link": "https://www.icourse163.org/university/RUC"
+    },
+    {
+        "name": "东南大学",
+        "link": "https://www.icourse163.org/university/SEU"
+    },
+    {
+        "name": "中国科学技术大学",
+        "link": "https://www.icourse163.org/university/USTC"
+    },
+    {
+        "name": "厦门大学",
+        "link": "https://www.icourse163.org/university/XMU"
+    },
+    {
+        "name": "山东大学",
+        "link": "https://www.icourse163.org/university/SDU"
+    },
+    {
+        "name": "中国海洋大学",
+        "link": "https://www.icourse163.org/university/OUC"
+    },
+    {
+        "name": "华中科技大学",
+        "link": "https://www.icourse163.org/university/HUST"
+    },
+    {
+        "name": "湖南大学",
+        "link": "https://www.icourse163.org/university/HNU"
+    },
+    {
+        "name": "中南大学",
+        "link": "https://www.icourse163.org/university/CSU"
+    },
+    {
+        "name": "国防科技大学",
+        "link": "https://www.icourse163.org/university/NUDT"
+    },
+    {
+        "name": "中山大学",
+        "link": "https://www.icourse163.org/university/SYSU"
+    },
+    {
+        "name": "华南理工大学",
+        "link": "https://www.icourse163.org/university/SCUT"
+    },
+    {
+        "name": "四川大学",
+        "link": "https://www.icourse163.org/university/SCU"
+    },
+    {
+        "name": "重庆大学",
+        "link": "https://www.icourse163.org/university/CQU"
+    },
+    {
+        "name": "电子科技大学",
+        "link": "https://www.icourse163.org/university/UESTC"
+    },
+    {
+        "name": "西安交通大学",
+        "link": "https://www.icourse163.org/university/XJTU"
+    },
+    {
+        "name": "西北工业大学",
+        "link": "https://www.icourse163.org/university/NWPU"
+    },
+    {
+        "name": "西北农林科技大学",
+        "link": "https://www.icourse163.org/university/NWSUAF"
+    },
+    {
+        "name": "兰州大学",
+        "link": "https://www.icourse163.org/university/LZU"
+    },
+    {
+        "name": "北京工业大学",
+        "link": "https://www.icourse163.org/university/bjut"
+    },
+    {
+        "name": "中央财经大学",
+        "link": "https://www.icourse163.org/university/CUFE"
+    },
+    {
+        "name": "中国政法大学",
+        "link": "https://www.icourse163.org/university/cupl"
+    },
+    {
+        "name": "北京邮电大学",
+        "link": "https://www.icourse163.org/university/BUPT"
+    },
+    {
+        "name": "北京交通大学",
+        "link": "https://www.icourse163.org/university/NJTU"
+    },
+    {
+        "name": "北京中医药大学",
+        "link": "https://www.icourse163.org/university/BUCM"
+    },
+    {
+        "name": "华北电力大学",
+        "link": "https://www.icourse163.org/university/NCEPU"
+    },
+    {
+        "name": "北京科技大学",
+        "link": "https://www.icourse163.org/university/USTB"
+    },
+    {
+        "name": "中国石油大学（北京）",
+        "link": "https://www.icourse163.org/university/CUP"
+    },
+    {
+        "name": "北京外国语大学",
+        "link": "https://www.icourse163.org/university/BFSU"
+    },
+    {
+        "name": "北京化工大学",
+        "link": "https://www.icourse163.org/university/BUCT"
+    },
+    {
+        "name": "对外经济贸易大学",
+        "link": "https://www.icourse163.org/university/UIBE"
+    },
+    {
+        "name": "中央音乐学院",
+        "link": "https://www.icourse163.org/university/CCOM"
+    },
+    {
+        "name": "北京林业大学",
+        "link": "https://www.icourse163.org/university/BFU"
+    },
+    {
+        "name": "中国矿业大学（北京）",
+        "link": "https://www.icourse163.org/university/CUMTB"
+    },
+    {
+        "name": "北京体育大学",
+        "link": "https://www.icourse163.org/university/BSU"
+    },
+    {
+        "name": "中国传媒大学",
+        "link": "https://www.icourse163.org/university/CUC"
+    },
+    {
+        "name": "中国地质大学（北京）",
+        "link": "https://www.icourse163.org/university/ZGDZDXBJ"
+    },
+    {
+        "name": "河北工业大学",
+        "link": "https://www.icourse163.org/university/HEBUT"
+    },
+    {
+        "name": "天津医科大学",
+        "link": "https://www.icourse163.org/university/TJYKDX"
+    },
+    {
+        "name": "上海外国语大学",
+        "link": "https://www.icourse163.org/university/SHISU"
+    },
+    {
+        "name": "上海财经大学",
+        "link": "https://www.icourse163.org/university/SHUFE"
+    },
+    {
+        "name": "东华大学",
+        "link": "https://www.icourse163.org/university/DHU"
+    },
+    {
+        "name": "华东理工大学",
+        "link": "https://www.icourse163.org/university/ECUST"
+    },
+    {
+        "name": "华东政法大学",
+        "link": "https://www.icourse163.org/university/HDZF"
+    },
+    {
+        "name": "上海大学",
+        "link": "https://www.icourse163.org/university/SHU"
+    },
+    {
+        "name": "西南大学",
+        "link": "https://www.icourse163.org/university/SWU"
+    },
+    {
+        "name": "华北电力大学（保定）",
+        "link": "https://www.icourse163.org/university/NCEPUB"
+    },
+    {
+        "name": "太原理工大学",
+        "link": "https://www.icourse163.org/university/TUT"
+    },
+    {
+        "name": "内蒙古大学",
+        "link": "https://www.icourse163.org/university/IMU"
+    },
+    {
+        "name": "大连海事大学",
+        "link": "https://www.icourse163.org/university/DLMU"
+    },
+    {
+        "name": "辽宁大学",
+        "link": "https://www.icourse163.org/university/INU"
+    },
+    {
+        "name": "东北师范大学",
+        "link": "https://www.icourse163.org/university/NENU"
+    },
+    {
+        "name": "东北林业大学",
+        "link": "https://www.icourse163.org/university/NEFU"
+    },
+    {
+        "name": "哈尔滨工程大学",
+        "link": "https://www.icourse163.org/university/HRBEU"
+    },
+    {
+        "name": "东北农业大学",
+        "link": "https://www.icourse163.org/university/NEAU"
+    },
+    {
+        "name": "江南大学",
+        "link": "https://www.icourse163.org/university/JIANGNAN"
+    },
+    {
+        "name": "南京航空航天大学",
+        "link": "https://www.icourse163.org/university/NUAA"
+    },
+    {
+        "name": "中国矿业大学",
+        "link": "https://www.icourse163.org/university/CUMT"
+    },
+    {
+        "name": "苏州大学",
+        "link": "https://www.icourse163.org/university/SUDA"
+    },
+    {
+        "name": "南京理工大学",
+        "link": "https://www.icourse163.org/university/NJUST"
+    },
+    {
+        "name": "南京师范大学",
+        "link": "https://www.icourse163.org/university/NJNU"
+    },
+    {
+        "name": "中国药科大学",
+        "link": "https://www.icourse163.org/university/CPU"
+    },
+    {
+        "name": "河海大学",
+        "link": "https://www.icourse163.org/university/HHU"
+    },
+    {
+        "name": "南京农业大学",
+        "link": "https://www.icourse163.org/university/NJAU"
+    },
+    {
+        "name": "合肥工业大学",
+        "link": "https://www.icourse163.org/university/HFUT"
+    },
+    {
+        "name": "福州大学",
+        "link": "https://www.icourse163.org/university/FZU"
+    },
+    {
+        "name": "南昌大学",
+        "link": "https://www.icourse163.org/university/NCU"
+    },
+    {
+        "name": "中国石油大学（华东）",
+        "link": "https://www.icourse163.org/university/UPC"
+    },
+    {
+        "name": "郑州大学",
+        "link": "https://www.icourse163.org/university/ZZU"
+    },
+    {
+        "name": "中国地质大学（武汉）",
+        "link": "https://www.icourse163.org/university/CUG"
+    },
+    {
+        "name": "武汉理工大学",
+        "link": "https://www.icourse163.org/university/WHUT"
+    },
+    {
+        "name": "华中农业大学",
+        "link": "https://www.icourse163.org/university/HZAU"
+    },
+    {
+        "name": "华中师范大学",
+        "link": "https://www.icourse163.org/university/CCNU"
+    },
+    {
+        "name": "中南财经政法大学",
+        "link": "https://www.icourse163.org/university/ZUEL"
+    },
+    {
+        "name": "湖南师范大学",
+        "link": "https://www.icourse163.org/university/HUNNU"
+    },
+    {
+        "name": "华南师范大学",
+        "link": "https://www.icourse163.org/university/scnu"
+    },
+    {
+        "name": "暨南大学",
+        "link": "https://www.icourse163.org/university/JNU"
+    },
+    {
+        "name": "华南农业大学",
+        "link": "https://www.icourse163.org/university/HNNY"
+    },
+    {
+        "name": "广西大学",
+        "link": "https://www.icourse163.org/university/GXU"
+    },
+    {
+        "name": "西南交通大学",
+        "link": "https://www.icourse163.org/university/SWJTU"
+    },
+    {
+        "name": "西南财经大学",
+        "link": "https://www.icourse163.org/university/SWUFE"
+    },
+    {
+        "name": "云南大学",
+        "link": "https://www.icourse163.org/university/YNU"
+    },
+    {
+        "name": "西北大学",
+        "link": "https://www.icourse163.org/university/NWU"
+    },
+    {
+        "name": "长安大学",
+        "link": "https://www.icourse163.org/university/CHD"
+    },
+    {
+        "name": "西安电子科技大学",
+        "link": "https://www.icourse163.org/university/XDU"
+    },
+    {
+        "name": "第四军医大学",
+        "link": "https://www.icourse163.org/university/FMMU"
+    },
+    {
+        "name": "陕西师范大学",
+        "link": "https://www.icourse163.org/university/SNNU"
+    },
+    {
+        "name": "宁夏大学",
+        "link": "https://www.icourse163.org/university/NXU"
+    },
+    {
+        "name": "青海大学",
+        "link": "https://www.icourse163.org/university/QHU"
+    },
+    {
+        "name": "中国科学院大学",
+        "link": "https://www.icourse163.org/university/GUCAS"
+    },
+    {
+        "name": "中国社会科学院大学",
+        "link": "https://www.icourse163.org/university/UCASS"
+    },
+    {
+        "name": "重庆市平台对接（测试）",
+        "link": "https://www.icourse163.org/university/GXDXCS"
+    },
+    {
+        "name": "网易AI能力测试学校",
+        "link": "https://www.icourse163.org/university/WYAICS01"
+    },
+    {
+        "name": "重庆人文科技学院",
+        "link": "https://www.icourse163.org/university/CQSPT008"
+    },
+    {
+        "name": "重庆邮电大学",
+        "link": "https://www.icourse163.org/university/GYD069"
+    },
+    {
+        "name": "四川财经职业学院",
+        "link": "https://www.icourse163.org/university/SVCFE"
+    },
+    {
+        "name": "四川外国语大学",
+        "link": "https://www.icourse163.org/university/SISU"
+    },
+    {
+        "name": "陕西理工大学",
+        "link": "https://www.icourse163.org/university/SNUT"
+    },
+    {
+        "name": "北京工商大学",
+        "link": "https://www.icourse163.org/university/BJGS"
+    },
+    {
+        "name": "北京建筑大学",
+        "link": "https://www.icourse163.org/university/BJJZ"
+    },
+    {
+        "name": "北京协和医学院",
+        "link": "https://www.icourse163.org/university/PUMC"
+    },
+    {
+        "name": "首都经济贸易大学",
+        "link": "https://www.icourse163.org/university/CUEB"
+    },
+    {
+        "name": "外交学院",
+        "link": "https://www.icourse163.org/university/CFAU"
+    },
+    {
+        "name": "首都师范大学",
+        "link": "https://www.icourse163.org/university/CNU"
+    },
+    {
+        "name": "首都体育学院",
+        "link": "https://www.icourse163.org/university/CUPES"
+    },
+    {
+        "name": "北京语言大学",
+        "link": "https://www.icourse163.org/university/BLCU"
+    },
+    {
+        "name": "北京第二外国语学院",
+        "link": "https://www.icourse163.org/university/BISU"
+    },
+    {
+        "name": "北京物资学院",
+        "link": "https://www.icourse163.org/university/bwu"
+    },
+    {
+        "name": "国际关系学院",
+        "link": "https://www.icourse163.org/university/GJGX"
+    },
+    {
+        "name": "中国音乐学院",
+        "link": "https://www.icourse163.org/university/CCM"
+    },
+    {
+        "name": "中央美术学院",
+        "link": "https://www.icourse163.org/university/CAFA"
+    },
+    {
+        "name": "中央戏剧学院",
+        "link": "https://www.icourse163.org/university/CAD"
+    },
+    {
+        "name": "北京服装学院",
+        "link": "https://www.icourse163.org/university/BJFZ"
+    },
+    {
+        "name": "中国劳动关系学院",
+        "link": "https://www.icourse163.org/university/GDY142"
+    },
+    {
+        "name": "天津师范大学",
+        "link": "https://www.icourse163.org/university/TJSFDX"
+    },
+    {
+        "name": "天津财经大学",
+        "link": "https://www.icourse163.org/university/TJCJDX"
+    },
+    {
+        "name": "河北科技大学",
+        "link": "https://www.icourse163.org/university/HEBUST"
+    },
+    {
+        "name": "河北师范大学",
+        "link": "https://www.icourse163.org/university/HEBTU"
+    },
+    {
+        "name": "保定学院",
+        "link": "https://www.icourse163.org/university/BDU"
+    },
+    {
+        "name": "邢台学院",
+        "link": "https://www.icourse163.org/university/XTTC"
+    },
+    {
+        "name": "山西大学",
+        "link": "https://www.icourse163.org/university/SXU"
+    },
+    {
+        "name": "山西医科大学",
+        "link": "https://www.icourse163.org/university/SXMU"
+    },
+    {
+        "name": "中国刑事警察学院",
+        "link": "https://www.icourse163.org/university/XSJC"
+    },
+    {
+        "name": "战略支援部队信息工程大学",
+        "link": "https://www.icourse163.org/university/IEU"
+    },
+    {
+        "name": "内蒙古民族大学",
+        "link": "https://www.icourse163.org/university/IMUN"
+    },
+    {
+        "name": "沈阳工业大学",
+        "link": "https://www.icourse163.org/university/SUT"
+    },
+    {
+        "name": "大连工业大学",
+        "link": "https://www.icourse163.org/university/DLPU"
+    },
+    {
+        "name": "大连海洋大学",
+        "link": "https://www.icourse163.org/university/DLOU"
+    },
+    {
+        "name": "中国医科大学",
+        "link": "https://www.icourse163.org/university/CMU"
+    },
+    {
+        "name": "辽宁中医药大学",
+        "link": "https://www.icourse163.org/university/LNUTCM"
+    },
+    {
+        "name": "渤海大学",
+        "link": "https://www.icourse163.org/university/BHU"
+    },
+    {
+        "name": "沈阳师范大学",
+        "link": "https://www.icourse163.org/university/SYNU"
+    },
+    {
+        "name": "东北财经大学",
+        "link": "https://www.icourse163.org/university/DUFE"
+    },
+    {
+        "name": "通化师范学院",
+        "link": "https://www.icourse163.org/university/THNU"
+    },
+    {
+        "name": "长春师范大学",
+        "link": "https://www.icourse163.org/university/CCSFDX"
+    },
+    {
+        "name": "长春中医药大学",
+        "link": "https://www.icourse163.org/university/CCUCM"
+    },
+    {
+        "name": "黑龙江大学",
+        "link": "https://www.icourse163.org/university/HLJU"
+    },
+    {
+        "name": "哈尔滨医科大学",
+        "link": "https://www.icourse163.org/university/HEBYKDX"
+    },
+    {
+        "name": "哈尔滨师范大学",
+        "link": "https://www.icourse163.org/university/HRBNU"
+    },
+    {
+        "name": "上海海事大学",
+        "link": "https://www.icourse163.org/university/SHMUT"
+    },
+    {
+        "name": "上海对外经贸大学",
+        "link": "https://www.icourse163.org/university/SUIBE"
+    },
+    {
+        "name": "上海应用技术大学",
+        "link": "https://www.icourse163.org/university/SIT"
+    },
+    {
+        "name": "上海中医药大学",
+        "link": "https://www.icourse163.org/university/SHUTCM"
+    },
+    {
+        "name": "上海师范大学",
+        "link": "https://www.icourse163.org/university/SHNU"
+    },
+    {
+        "name": "上海体育大学",
+        "link": "https://www.icourse163.org/university/SUS"
+    },
+    {
+        "name": "上海戏剧学院",
+        "link": "https://www.icourse163.org/university/STA"
+    },
+    {
+        "name": "南京邮电大学",
+        "link": "https://www.icourse163.org/university/NJUPT"
+    },
+    {
+        "name": "盐城工学院",
+        "link": "https://www.icourse163.org/university/YCIT"
+    },
+    {
+        "name": "南京中医药大学",
+        "link": "https://www.icourse163.org/university/NJUTCM"
+    },
+    {
+        "name": "中国人民解放军陆军工程大学",
+        "link": "https://www.icourse163.org/university/PAEU"
+    },
+    {
+        "name": "南京体育学院",
+        "link": "https://www.icourse163.org/university/NIPES"
+    },
+    {
+        "name": "江苏大学",
+        "link": "https://www.icourse163.org/university/UJS"
+    },
+    {
+        "name": "杭州电子科技大学",
+        "link": "https://www.icourse163.org/university/HDU"
+    },
+    {
+        "name": "浙江工业大学",
+        "link": "https://www.icourse163.org/university/ZJUT"
+    },
+    {
+        "name": "浙江理工大学",
+        "link": "https://www.icourse163.org/university/ZSTU"
+    },
+    {
+        "name": "西湖大学",
+        "link": "https://www.icourse163.org/university/XHUN"
+    },
+    {
+        "name": "浙江农林大学",
+        "link": "https://www.icourse163.org/university/ZAFU"
+    },
+    {
+        "name": "杭州师范大学",
+        "link": "https://www.icourse163.org/university/HZNU"
+    },
+    {
+        "name": "温州大学",
+        "link": "https://www.icourse163.org/university/WZU"
+    },
+    {
+        "name": "宁波大学",
+        "link": "https://www.icourse163.org/university/NBU"
+    },
+    {
+        "name": "浙江工商大学",
+        "link": "https://www.icourse163.org/university/HZIC"
+    },
+    {
+        "name": "中国美术学院",
+        "link": "https://www.icourse163.org/university/CAA"
+    },
+    {
+        "name": "中国计量大学",
+        "link": "https://www.icourse163.org/university/ZGJL"
+    },
+    {
+        "name": "安徽大学",
+        "link": "https://www.icourse163.org/university/AHDX"
+    },
+    {
+        "name": "华侨大学",
+        "link": "https://www.icourse163.org/university/HQU"
+    },
+    {
+        "name": "福建农林大学",
+        "link": "https://www.icourse163.org/university/FAFU"
+    },
+    {
+        "name": "集美大学",
+        "link": "https://www.icourse163.org/university/JMU"
+    },
+    {
+        "name": "福建中医药大学",
+        "link": "https://www.icourse163.org/university/FJZYY"
+    },
+    {
+        "name": "福建师范大学",
+        "link": "https://www.icourse163.org/university/FJNU"
+    },
+    {
+        "name": "闽江学院",
+        "link": "https://www.icourse163.org/university/MJU"
+    },
+    {
+        "name": "武夷学院",
+        "link": "https://www.icourse163.org/university/WYXY"
+    },
+    {
+        "name": "华东交通大学",
+        "link": "https://www.icourse163.org/university/ECJTU"
+    },
+    {
+        "name": "江西理工大学",
+        "link": "https://www.icourse163.org/university/JXLGDX"
+    },
+    {
+        "name": "江西师范大学",
+        "link": "https://www.icourse163.org/university/JXNU"
+    },
+    {
+        "name": "江西财经大学",
+        "link": "https://www.icourse163.org/university/JXUFE"
+    },
+    {
+        "name": "青岛科技大学",
+        "link": "https://www.icourse163.org/university/QUST"
+    },
+    {
+        "name": "滨州医学院",
+        "link": "https://www.icourse163.org/university/BZYXY"
+    },
+    {
+        "name": "山东中医药大学",
+        "link": "https://www.icourse163.org/university/SDUTCM"
+    },
+    {
+        "name": "河南科技大学",
+        "link": "https://www.icourse163.org/university/HAUST"
+    },
+    {
+        "name": "河南大学",
+        "link": "https://www.icourse163.org/university/HENU"
+    },
+    {
+        "name": "武汉科技大学",
+        "link": "https://www.icourse163.org/university/WUST"
+    },
+    {
+        "name": "长江大学",
+        "link": "https://www.icourse163.org/university/YANGTZEU"
+    },
+    {
+        "name": "武汉纺织大学",
+        "link": "https://www.icourse163.org/university/GDY014"
+    },
+    {
+        "name": "湖北大学",
+        "link": "https://www.icourse163.org/university/HUBU"
+    },
+    {
+        "name": "湖北汽车工业学院",
+        "link": "https://www.icourse163.org/university/HUAT"
+    },
+    {
+        "name": "湘潭大学",
+        "link": "https://www.icourse163.org/university/XTU"
+    },
+    {
+        "name": "湖南农业大学",
+        "link": "https://www.icourse163.org/university/HUNAU"
+    },
+    {
+        "name": "湖南理工学院",
+        "link": "https://www.icourse163.org/university/HNLGXY"
+    },
+    {
+        "name": "衡阳师范学院",
+        "link": "https://www.icourse163.org/university/HYNU"
+    },
+    {
+        "name": "长沙师范学院",
+        "link": "https://www.icourse163.org/university/CSSF"
+    },
+    {
+        "name": "广东海洋大学",
+        "link": "https://www.icourse163.org/university/GDOU"
+    },
+    {
+        "name": "广东技术师范大学",
+        "link": "https://www.icourse163.org/university/GDIA"
+    },
+    {
+        "name": "深圳大学",
+        "link": "https://www.icourse163.org/university/SZU"
+    },
+    {
+        "name": "桂林电子科技大学",
+        "link": "https://www.icourse163.org/university/GLIET"
+    },
+    {
+        "name": "桂林理工大学",
+        "link": "https://www.icourse163.org/university/SYXX13"
+    },
+    {
+        "name": "广西医科大学",
+        "link": "https://www.icourse163.org/university/GXYK"
+    },
+    {
+        "name": "广西民族大学",
+        "link": "https://www.icourse163.org/university/GXMZ"
+    },
+    {
+        "name": "南宁师范大学",
+        "link": "https://www.icourse163.org/university/gxtc"
+    },
+    {
+        "name": "西南石油大学",
+        "link": "https://www.icourse163.org/university/SWPU"
+    },
+    {
+        "name": "成都信息工程大学",
+        "link": "https://www.icourse163.org/university/CUIT"
+    },
+    {
+        "name": "成都中医药大学",
+        "link": "https://www.icourse163.org/university/CDUTCM"
+    },
+    {
+        "name": "四川师范大学",
+        "link": "https://www.icourse163.org/university/SICNU"
+    },
+    {
+        "name": "西华师范大学",
+        "link": "https://www.icourse163.org/university/CWNU"
+    },
+    {
+        "name": "西南政法大学",
+        "link": "https://www.icourse163.org/university/SWUPL"
+    },
+    {
+        "name": "四川音乐学院",
+        "link": "https://www.icourse163.org/university/SCCM"
+    },
+    {
+        "name": "成都工业学院",
+        "link": "https://www.icourse163.org/university/CDTU"
+    },
+    {
+        "name": "宁波财经学院",
+        "link": "https://www.icourse163.org/university/NBCJXY"
+    },
+    {
+        "name": "昆明理工大学",
+        "link": "https://www.icourse163.org/university/KMUST"
+    },
+    {
+        "name": "云南师范大学",
+        "link": "https://www.icourse163.org/university/YNNU"
+    },
+    {
+        "name": "西安理工大学",
+        "link": "https://www.icourse163.org/university/XAUT"
+    },
+    {
+        "name": "西安工业大学",
+        "link": "https://www.icourse163.org/university/XATU"
+    },
+    {
+        "name": "西安建筑科技大学",
+        "link": "https://www.icourse163.org/university/XAUAT"
+    },
+    {
+        "name": "西安科技大学",
+        "link": "https://www.icourse163.org/university/XUST"
+    },
+    {
+        "name": "陕西科技大学",
+        "link": "https://www.icourse163.org/university/SUST"
+    },
+    {
+        "name": "西安工程大学",
+        "link": "https://www.icourse163.org/university/XPU"
+    },
+    {
+        "name": "西安外国语大学",
+        "link": "https://www.icourse163.org/university/SISUEDU"
+    },
+    {
+        "name": "西安邮电大学",
+        "link": "https://www.icourse163.org/university/XIYOU"
+    },
+    {
+        "name": "西北师范大学",
+        "link": "https://www.icourse163.org/university/nwnu"
+    },
+    {
+        "name": "兰州交通大学",
+        "link": "https://www.icourse163.org/university/LZJTU"
+    },
+    {
+        "name": "河西学院",
+        "link": "https://www.icourse163.org/university/HXU"
+    },
+    {
+        "name": "上海工程技术大学",
+        "link": "https://www.icourse163.org/university/sues"
+    },
+    {
+        "name": "浙江万里学院",
+        "link": "https://www.icourse163.org/university/ZJWU"
+    },
+    {
+        "name": "宁波工程学院",
+        "link": "https://www.icourse163.org/university/NBUT"
+    },
+    {
+        "name": "广州大学",
+        "link": "https://www.icourse163.org/university/GZU"
+    },
+    {
+        "name": "中国人民警察大学",
+        "link": "https://www.icourse163.org/university/WJXY"
+    },
+    {
+        "name": "大连大学",
+        "link": "https://www.icourse163.org/university/DLU"
+    },
+    {
+        "name": "南京审计大学",
+        "link": "https://www.icourse163.org/university/NAU"
+    },
+    {
+        "name": "南昌工程学院",
+        "link": "https://www.icourse163.org/university/NIT"
+    },
+    {
+        "name": "北京联合大学",
+        "link": "https://www.icourse163.org/university/BUU"
+    },
+    {
+        "name": "辽宁科技学院",
+        "link": "https://www.icourse163.org/university/INIST"
+    },
+    {
+        "name": "浙江财经大学",
+        "link": "https://www.icourse163.org/university/ZUFE"
+    },
+    {
+        "name": "新余学院",
+        "link": "https://www.icourse163.org/university/XYC"
+    },
+    {
+        "name": "湖北经济学院",
+        "link": "https://www.icourse163.org/university/HBEU"
+    },
+    {
+        "name": "海南师范大学",
+        "link": "https://www.icourse163.org/university/HAINNU"
+    },
+    {
+        "name": "山东工商学院",
+        "link": "https://www.icourse163.org/university/CCEC"
+    },
+    {
+        "name": "重庆工商大学",
+        "link": "https://www.icourse163.org/university/CTBU"
+    },
+    {
+        "name": "广东工业大学",
+        "link": "https://www.icourse163.org/university/GDUT"
+    },
+    {
+        "name": "广东外语外贸大学",
+        "link": "https://www.icourse163.org/university/GDUFS"
+    },
+    {
+        "name": "湖南第一师范学院",
+        "link": "https://www.icourse163.org/university/HDDYSF"
+    },
+    {
+        "name": "南方医科大学",
+        "link": "https://www.icourse163.org/university/SMU"
+    },
+    {
+        "name": "闽南理工学院",
+        "link": "https://www.icourse163.org/university/MNLGXY"
+    },
+    {
+        "name": "南昌工学院",
+        "link": "https://www.icourse163.org/university/NCGXY"
+    },
+    {
+        "name": "北京中医药大学东方学院",
+        "link": "https://www.icourse163.org/university/GDY05"
+    },
+    {
+        "name": "安徽工业大学",
+        "link": "https://www.icourse163.org/university/AHUT"
+    },
+    {
+        "name": "中南民族大学",
+        "link": "https://www.icourse163.org/university/SCUEC"
+    },
+    {
+        "name": "山东财经大学",
+        "link": "https://www.icourse163.org/university/SDCJDX"
+    },
+    {
+        "name": "福建医科大学",
+        "link": "https://www.icourse163.org/university/FJYKDX"
+    },
+    {
+        "name": "山东科技大学",
+        "link": "https://www.icourse163.org/university/SDKJDX"
+    },
+    {
+        "name": "重庆交通大学",
+        "link": "https://www.icourse163.org/university/CQJTDX"
+    },
+    {
+        "name": "湖北中医药大学",
+        "link": "https://www.icourse163.org/university/YZYY"
+    },
+    {
+        "name": "安徽师范大学",
+        "link": "https://www.icourse163.org/university/AHSF"
+    },
+    {
+        "name": "西安体育学院",
+        "link": "https://www.icourse163.org/university/XPEU"
+    },
+    {
+        "name": "山东工艺美术学院",
+        "link": "https://www.icourse163.org/university/SUAD"
+    },
+    {
+        "name": "潍坊医学院",
+        "link": "https://www.icourse163.org/university/GDY227"
+    },
+    {
+        "name": "中国民用航空飞行学院",
+        "link": "https://www.icourse163.org/university/GDY299"
+    },
+    {
+        "name": "哈尔滨学院",
+        "link": "https://www.icourse163.org/university/GDY307"
+    },
+    {
+        "name": "广西艺术学院",
+        "link": "https://www.icourse163.org/university/GXAU"
+    },
+    {
+        "name": "沈阳工程学院",
+        "link": "https://www.icourse163.org/university/SIE"
+    },
+    {
+        "name": "黑龙江八一农垦大学",
+        "link": "https://www.icourse163.org/university/BYAU"
+    },
+    {
+        "name": "甘肃中医药大学",
+        "link": "https://www.icourse163.org/university/GDY209"
+    },
+    {
+        "name": "东北电力大学",
+        "link": "https://www.icourse163.org/university/NEEPU"
+    },
+    {
+        "name": "淮北师范大学",
+        "link": "https://www.icourse163.org/university/CHNU"
+    },
+    {
+        "name": "阿坝师范学院",
+        "link": "https://www.icourse163.org/university/ABTU"
+    },
+    {
+        "name": "湖南女子学院",
+        "link": "https://www.icourse163.org/university/HNND"
+    },
+    {
+        "name": "南华大学",
+        "link": "https://www.icourse163.org/university/NHDX"
+    },
+    {
+        "name": "桂林医学院",
+        "link": "https://www.icourse163.org/university/GLYXY"
+    },
+    {
+        "name": "景德镇陶瓷大学",
+        "link": "https://www.icourse163.org/university/JDZTCDX"
+    },
+    {
+        "name": "九江学院",
+        "link": "https://www.icourse163.org/university/JJXY"
+    },
+    {
+        "name": "青岛大学",
+        "link": "https://www.icourse163.org/university/QDU"
+    },
+    {
+        "name": "浙大城市学院",
+        "link": "https://www.icourse163.org/university/ZUCC"
+    },
+    {
+        "name": "贵州理工学院",
+        "link": "https://www.icourse163.org/university/GIT"
+    },
+    {
+        "name": "长沙学院",
+        "link": "https://www.icourse163.org/university/CCSU"
+    },
+    {
+        "name": "温州医科大学",
+        "link": "https://www.icourse163.org/university/WMU"
+    },
+    {
+        "name": "成都理工大学",
+        "link": "https://www.icourse163.org/university/CDLGDX"
+    },
+    {
+        "name": "成都大学",
+        "link": "https://www.icourse163.org/university/CDU"
+    },
+    {
+        "name": "岭南师范学院",
+        "link": "https://www.icourse163.org/university/LNU"
+    },
+    {
+        "name": "汕头大学",
+        "link": "https://www.icourse163.org/university/STDX"
+    },
+    {
+        "name": "北方工业大学",
+        "link": "https://www.icourse163.org/university/NCUT"
+    },
+    {
+        "name": "重庆医科大学",
+        "link": "https://www.icourse163.org/university/cqmu"
+    },
+    {
+        "name": "西安美术学院",
+        "link": "https://www.icourse163.org/university/XAFA"
+    },
+    {
+        "name": "陇东学院",
+        "link": "https://www.icourse163.org/university/IDXY"
+    },
+    {
+        "name": "中南林业科技大学",
+        "link": "https://www.icourse163.org/university/CSUFT"
+    },
+    {
+        "name": "北方民族大学",
+        "link": "https://www.icourse163.org/university/NUN"
+    },
+    {
+        "name": "浙江水利水电学院",
+        "link": "https://www.icourse163.org/university/zjweu"
+    },
+    {
+        "name": "西藏民族大学",
+        "link": "https://www.icourse163.org/university/XZMY"
+    },
+    {
+        "name": "太原工业学院",
+        "link": "https://www.icourse163.org/university/TIT"
+    },
+    {
+        "name": "广州中医药大学",
+        "link": "https://www.icourse163.org/university/GZZYY"
+    },
+    {
+        "name": "长沙理工大学",
+        "link": "https://www.icourse163.org/university/CSLGDX"
+    },
+    {
+        "name": "呼伦贝尔学院",
+        "link": "https://www.icourse163.org/university/HLBRC"
+    },
+    {
+        "name": "四川美术学院",
+        "link": "https://www.icourse163.org/university/SFAI"
+    },
+    {
+        "name": "云南财经大学",
+        "link": "https://www.icourse163.org/university/YNUFE"
+    },
+    {
+        "name": "中华女子学院",
+        "link": "https://www.icourse163.org/university/CWU"
+    },
+    {
+        "name": "福州外语外贸学院",
+        "link": "https://www.icourse163.org/university/FZFU"
+    },
+    {
+        "name": "黄淮学院",
+        "link": "https://www.icourse163.org/university/HHUN"
+    },
+    {
+        "name": "安徽农业大学",
+        "link": "https://www.icourse163.org/university/AHAU"
+    },
+    {
+        "name": "吉林体育学院",
+        "link": "https://www.icourse163.org/university/GLSU"
+    },
+    {
+        "name": "武汉轻工大学",
+        "link": "https://www.icourse163.org/university/WHPU"
+    },
+    {
+        "name": "兰州石化职业技术大学",
+        "link": "https://www.icourse163.org/university/LZPCC"
+    },
+    {
+        "name": "广州美术学院",
+        "link": "https://www.icourse163.org/university/GZARTS"
+    },
+    {
+        "name": "合肥师范学院",
+        "link": "https://www.icourse163.org/university/HFNU"
+    },
+    {
+        "name": "广州体育学院",
+        "link": "https://www.icourse163.org/university/GIPE"
+    },
+    {
+        "name": "山东体育学院",
+        "link": "https://www.icourse163.org/university/SSU"
+    },
+    {
+        "name": "南昌理工学院",
+        "link": "https://www.icourse163.org/university/NCLG"
+    },
+    {
+        "name": "福建农林大学金山学院",
+        "link": "https://www.icourse163.org/university/JSXYFAFU"
+    },
+    {
+        "name": "成都体育学院",
+        "link": "https://www.icourse163.org/university/CDSU"
+    },
+    {
+        "name": "锦州医科大学",
+        "link": "https://www.icourse163.org/university/INMU"
+    },
+    {
+        "name": "豫章师范学院",
+        "link": "https://www.icourse163.org/university/YUZNU"
+    },
+    {
+        "name": "武汉体育学院",
+        "link": "https://www.icourse163.org/university/WHSU"
+    },
+    {
+        "name": "上海立信会计金融学院",
+        "link": "https://www.icourse163.org/university/LIXIN"
+    },
+    {
+        "name": "湖北文理学院",
+        "link": "https://www.icourse163.org/university/HBUAS"
+    },
+    {
+        "name": "广东开放大学",
+        "link": "https://www.icourse163.org/university/gdrtvu"
+    },
+    {
+        "name": "新疆财经大学",
+        "link": "https://www.icourse163.org/university/XJUFE"
+    },
+    {
+        "name": "德州职业技术学院",
+        "link": "https://www.icourse163.org/university/DZVC"
+    },
+    {
+        "name": "山西农业大学",
+        "link": "https://www.icourse163.org/university/SXAU"
+    },
+    {
+        "name": "西南医科大学",
+        "link": "https://www.icourse163.org/university/SWMU"
+    },
+    {
+        "name": "西安航空学院",
+        "link": "https://www.icourse163.org/university/XAAU"
+    },
+    {
+        "name": "四川旅游学院",
+        "link": "https://www.icourse163.org/university/STC"
+    },
+    {
+        "name": "首都医科大学",
+        "link": "https://www.icourse163.org/university/CCMU"
+    },
+    {
+        "name": "培训需求学校",
+        "link": "https://www.icourse163.org/university/PXXQXX"
+    },
+    {
+        "name": "天津传媒学院",
+        "link": "https://www.icourse163.org/university/TJYYWH"
+    },
+    {
+        "name": "天津科技大学",
+        "link": "https://www.icourse163.org/university/TUST"
+    },
+    {
+        "name": "天津工业大学",
+        "link": "https://www.icourse163.org/university/TJGYDX"
+    },
+    {
+        "name": "天津商业大学",
+        "link": "https://www.icourse163.org/university/TJSYDX"
+    },
+    {
+        "name": "天津体育学院",
+        "link": "https://www.icourse163.org/university/TJUS"
+    },
+    {
+        "name": "山东交通学院",
+        "link": "https://www.icourse163.org/university/SDJTU"
+    },
+    {
+        "name": "浙江海洋大学",
+        "link": "https://www.icourse163.org/university/ZJHY"
+    },
+    {
+        "name": "河北大学",
+        "link": "https://www.icourse163.org/university/HBU"
+    },
+    {
+        "name": "燕山大学",
+        "link": "https://www.icourse163.org/university/YSU"
+    },
+    {
+        "name": "河北经贸大学",
+        "link": "https://www.icourse163.org/university/HEUET"
+    },
+    {
+        "name": "西华大学",
+        "link": "https://www.icourse163.org/university/XHDX"
+    },
+    {
+        "name": "延安大学",
+        "link": "https://www.icourse163.org/university/YADX"
+    },
+    {
+        "name": "南昌航空大学",
+        "link": "https://www.icourse163.org/university/NCHKDX"
+    },
+    {
+        "name": "河北医科大学",
+        "link": "https://www.icourse163.org/university/HJYK"
+    },
+    {
+        "name": "安庆师范大学",
+        "link": "https://www.icourse163.org/university/AQNU"
+    },
+    {
+        "name": "闽南师范大学",
+        "link": "https://www.icourse163.org/university/MNNU"
+    },
+    {
+        "name": "浙江音乐学院",
+        "link": "https://www.icourse163.org/university/ZJYY"
+    },
+    {
+        "name": "南京工业大学",
+        "link": "https://www.icourse163.org/university/NJTECH"
+    },
+    {
+        "name": "常州工学院",
+        "link": "https://www.icourse163.org/university/CZU"
+    },
+    {
+        "name": "宿迁学院",
+        "link": "https://www.icourse163.org/university/SQC"
+    },
+    {
+        "name": "江苏海洋大学",
+        "link": "https://www.icourse163.org/university/HHIT"
+    },
+    {
+        "name": "南京医科大学",
+        "link": "https://www.icourse163.org/university/NMU"
+    },
+    {
+        "name": "常州大学",
+        "link": "https://www.icourse163.org/university/CCZU"
+    },
+    {
+        "name": "淮阴工学院",
+        "link": "https://www.icourse163.org/university/HYIT"
+    },
+    {
+        "name": "苏州科技大学",
+        "link": "https://www.icourse163.org/university/USTS"
+    },
+    {
+        "name": "南京晓庄学院",
+        "link": "https://www.icourse163.org/university/NJXZC"
+    },
+    {
+        "name": "徐州工程学院",
+        "link": "https://www.icourse163.org/university/XZIT"
+    },
+    {
+        "name": "江苏开放大学",
+        "link": "https://www.icourse163.org/university/JSOU"
+    },
+    {
+        "name": "江苏师范大学",
+        "link": "https://www.icourse163.org/university/XZNU"
+    },
+    {
+        "name": "南京林业大学",
+        "link": "https://www.icourse163.org/university/NJFU"
+    },
+    {
+        "name": "江苏理工学院",
+        "link": "https://www.icourse163.org/university/JSTU"
+    },
+    {
+        "name": "泰州学院",
+        "link": "https://www.icourse163.org/university/TZSZ"
+    },
+    {
+        "name": "南京信息工程大学",
+        "link": "https://www.icourse163.org/university/NUIST"
+    },
+    {
+        "name": "江苏第二师范学院",
+        "link": "https://www.icourse163.org/university/JSIE"
+    },
+    {
+        "name": "徐州医科大学",
+        "link": "https://www.icourse163.org/university/XZMC"
+    },
+    {
+        "name": "南京艺术学院",
+        "link": "https://www.icourse163.org/university/NJARTY"
+    },
+    {
+        "name": "江苏科技大学",
+        "link": "https://www.icourse163.org/university/JUST"
+    },
+    {
+        "name": "扬州大学",
+        "link": "https://www.icourse163.org/university/YZU"
+    },
+    {
+        "name": "东南大学成贤学院",
+        "link": "https://www.icourse163.org/university/SEUCXXY"
+    },
+    {
+        "name": "金陵科技学院",
+        "link": "https://www.icourse163.org/university/JIT"
+    },
+    {
+        "name": "南通大学",
+        "link": "https://www.icourse163.org/university/NTU"
+    },
+    {
+        "name": "南京理工大学泰州科技学院",
+        "link": "https://www.icourse163.org/university/NUSTTI"
+    },
+    {
+        "name": "三江学院",
+        "link": "https://www.icourse163.org/university/SJU"
+    },
+    {
+        "name": "南京工程学院",
+        "link": "https://www.icourse163.org/university/NJIT"
+    },
+    {
+        "name": "盐城师范学院",
+        "link": "https://www.icourse163.org/university/YCTC"
+    },
+    {
+        "name": "南京特殊教育师范学院",
+        "link": "https://www.icourse163.org/university/NJTY"
+    },
+    {
+        "name": "南京理工大学紫金学院",
+        "link": "https://www.icourse163.org/university/ZJNJUST"
+    },
+    {
+        "name": "江苏师范大学科文学院",
+        "link": "https://www.icourse163.org/university/KWXY"
+    },
+    {
+        "name": "江苏科技大学苏州理工学院",
+        "link": "https://www.icourse163.org/university/SZLGJUST"
+    },
+    {
+        "name": "苏州城市学院",
+        "link": "https://www.icourse163.org/university/SDWZ"
+    },
+    {
+        "name": "南京师范大学泰州学院",
+        "link": "https://www.icourse163.org/university/NNUTC"
+    },
+    {
+        "name": "常熟理工学院",
+        "link": "https://www.icourse163.org/university/CSLG"
+    },
+    {
+        "name": "南京财经大学",
+        "link": "https://www.icourse163.org/university/NJUE"
+    },
+    {
+        "name": "淮阴师范学院",
+        "link": "https://www.icourse163.org/university/HYTC"
+    },
+    {
+        "name": "无锡太湖学院",
+        "link": "https://www.icourse163.org/university/THXY"
+    },
+    {
+        "name": "南京警察学院",
+        "link": "https://www.icourse163.org/university/Nanjing police university"
+    },
+    {
+        "name": "南通理工学院",
+        "link": "https://www.icourse163.org/university/ZLVC"
+    },
+    {
+        "name": "江苏警官学院",
+        "link": "https://www.icourse163.org/university/JSPI"
+    },
+    {
+        "name": "南京审计大学金审学院",
+        "link": "https://www.icourse163.org/university/JSXY"
+    },
+    {
+        "name": "南京大学金陵学院",
+        "link": "https://www.icourse163.org/university/JLXY"
+    },
+    {
+        "name": "无锡学院",
+        "link": "https://www.icourse163.org/university/BJXY"
+    },
+    {
+        "name": "南京师范大学中北学院",
+        "link": "https://www.icourse163.org/university/ZBNJNU"
+    },
+    {
+        "name": "南京财经大学红山学院",
+        "link": "https://www.icourse163.org/university/HSNUFE"
+    },
+    {
+        "name": "苏州科技大学天平学院",
+        "link": "https://www.icourse163.org/university/TPXY"
+    },
+    {
+        "name": "中国矿业大学徐海学院",
+        "link": "https://www.icourse163.org/university/XHXY"
+    },
+    {
+        "name": "南京传媒学院",
+        "link": "https://www.icourse163.org/university/CUCN"
+    },
+    {
+        "name": "河南理工大学",
+        "link": "https://www.icourse163.org/university/HPU"
+    },
+    {
+        "name": "开封大学",
+        "link": "https://www.icourse163.org/university/KFU"
+    },
+    {
+        "name": "洛阳师范学院",
+        "link": "https://www.icourse163.org/university/LYNC"
+    },
+    {
+        "name": "平顶山学院",
+        "link": "https://www.icourse163.org/university/PDSU"
+    },
+    {
+        "name": "黄河科技学院",
+        "link": "https://www.icourse163.org/university/HHSTU"
+    },
+    {
+        "name": "周口师范学院",
+        "link": "https://www.icourse163.org/university/ZKNU"
+    },
+    {
+        "name": "黄河交通学院",
+        "link": "https://www.icourse163.org/university/ZJTU"
+    },
+    {
+        "name": "中原工学院",
+        "link": "https://www.icourse163.org/university/ZZTI"
+    },
+    {
+        "name": "安阳工学院",
+        "link": "https://www.icourse163.org/university/AYIT"
+    },
+    {
+        "name": "河南中医药大学",
+        "link": "https://www.icourse163.org/university/HACTCM"
+    },
+    {
+        "name": "洛阳理工学院",
+        "link": "https://www.icourse163.org/university/LIT"
+    },
+    {
+        "name": "河南城建学院",
+        "link": "https://www.icourse163.org/university/HNCJ"
+    },
+    {
+        "name": "河南师范大学",
+        "link": "https://www.icourse163.org/university/HENANNU"
+    },
+    {
+        "name": "河南农业大学",
+        "link": "https://www.icourse163.org/university/HENAU"
+    },
+    {
+        "name": "中原科技学院",
+        "link": "https://www.icourse163.org/university/XLXY"
+    },
+    {
+        "name": "郑州轻工业大学",
+        "link": "https://www.icourse163.org/university/ZZULI"
+    },
+    {
+        "name": "河南科技学院",
+        "link": "https://www.icourse163.org/university/HIST"
+    },
+    {
+        "name": "郑州工程技术学院",
+        "link": "https://www.icourse163.org/university/ZHZHU"
+    },
+    {
+        "name": "西南科技大学",
+        "link": "https://www.icourse163.org/university/SWUST"
+    },
+    {
+        "name": "浙江传媒学院",
+        "link": "https://www.icourse163.org/university/ZJICM"
+    },
+    {
+        "name": "哈尔滨工业大学（威海）",
+        "link": "https://www.icourse163.org/university/HITWH"
+    },
+    {
+        "name": "广西师范大学",
+        "link": "https://www.icourse163.org/university/GXSF"
+    },
+    {
+        "name": "浙江科技大学",
+        "link": "https://www.icourse163.org/university/ZUST"
+    },
+    {
+        "name": "湖南工业大学",
+        "link": "https://www.icourse163.org/university/HUT"
+    },
+    {
+        "name": "中北大学",
+        "link": "https://www.icourse163.org/university/NUC"
+    },
+    {
+        "name": "山东第一医科大学",
+        "link": "https://www.icourse163.org/university/SDDY"
+    },
+    {
+        "name": "浙江中医药大学",
+        "link": "https://www.icourse163.org/university/ZJZYY"
+    },
+    {
+        "name": "天水师范学院",
+        "link": "https://www.icourse163.org/university/TSNC"
+    },
+    {
+        "name": "三峡大学",
+        "link": "https://www.icourse163.org/university/CTGU"
+    },
+    {
+        "name": "沈阳农业大学",
+        "link": "https://www.icourse163.org/university/SYAU"
+    },
+    {
+        "name": "大连民族大学",
+        "link": "https://www.icourse163.org/university/DLNU"
+    },
+    {
+        "name": "沈阳药科大学",
+        "link": "https://www.icourse163.org/university/SYPHU"
+    },
+    {
+        "name": "安康学院",
+        "link": "https://www.icourse163.org/university/AKXY"
+    },
+    {
+        "name": "武昌理工学院",
+        "link": "https://www.icourse163.org/university/WCLG"
+    },
+    {
+        "name": "沈阳理工大学",
+        "link": "https://www.icourse163.org/university/SYLG"
+    },
+    {
+        "name": "战略支援部队信息工程大学地理空间信息学院",
+        "link": "https://www.icourse163.org/university/IEUP"
+    },
+    {
+        "name": "北京警察学院",
+        "link": "https://www.icourse163.org/university/北京警察学院"
+    },
+    {
+        "name": "山东管理学院",
+        "link": "https://www.icourse163.org/university/SDMU"
+    },
+    {
+        "name": "昆明医科大学",
+        "link": "https://www.icourse163.org/university/KMYKDX"
+    },
+    {
+        "name": "上海海洋大学",
+        "link": "https://www.icourse163.org/university/SHOU"
+    },
+    {
+        "name": "浙江师范大学",
+        "link": "https://www.icourse163.org/university/ZJNU"
+    },
+    {
+        "name": "桂林旅游学院",
+        "link": "https://www.icourse163.org/university/GLLY"
+    },
+    {
+        "name": "山西师范大学",
+        "link": "https://www.icourse163.org/university/SXNU"
+    },
+    {
+        "name": "齐鲁工业大学",
+        "link": "https://www.icourse163.org/university/SDILI"
+    },
+    {
+        "name": "厦门理工学院",
+        "link": "https://www.icourse163.org/university/XMUT"
+    },
+    {
+        "name": "广西科技大学启迪数字学院",
+        "link": "https://www.icourse163.org/university/GXKJQD"
+    },
+    {
+        "name": "北京信息科技大学",
+        "link": "https://www.icourse163.org/university/BISTU"
+    },
+    {
+        "name": "重庆师范大学",
+        "link": "https://www.icourse163.org/university/CQNU"
+    },
+    {
+        "name": "北部湾大学",
+        "link": "https://www.icourse163.org/university/SZXY"
+    },
+    {
+        "name": "杭州医学院",
+        "link": "https://www.icourse163.org/university/HZYXY"
+    },
+    {
+        "name": "湖南科技学院",
+        "link": "https://www.icourse163.org/university/HUSE"
+    },
+    {
+        "name": "沈阳航空航天大学",
+        "link": "https://www.icourse163.org/university/SAUEDU"
+    },
+    {
+        "name": "福建江夏学院",
+        "link": "https://www.icourse163.org/university/FJJXXY"
+    },
+    {
+        "name": "湖北美术学院",
+        "link": "https://www.icourse163.org/university/HBMS"
+    },
+    {
+        "name": "浙江外国语学院",
+        "link": "https://www.icourse163.org/university/ZJWGY"
+    },
+    {
+        "name": "江西科技学院",
+        "link": "https://www.icourse163.org/university/JXKJ"
+    },
+    {
+        "name": "浙大宁波理工学院",
+        "link": "https://www.icourse163.org/university/ZDNBLGXY"
+    },
+    {
+        "name": "宁夏医科大学",
+        "link": "https://www.icourse163.org/university/NXFS"
+    },
+    {
+        "name": "安徽工程大学",
+        "link": "https://www.icourse163.org/university/AHGC"
+    },
+    {
+        "name": "武昌工学院",
+        "link": "https://www.icourse163.org/university/WCGXY"
+    },
+    {
+        "name": "湖南科技大学",
+        "link": "https://www.icourse163.org/university/HNKJ"
+    },
+    {
+        "name": "安徽理工大学",
+        "link": "https://www.icourse163.org/university/AUST"
+    },
+    {
+        "name": "江西中医药大学",
+        "link": "https://www.icourse163.org/university/GDY038"
+    },
+    {
+        "name": "四川民族学院",
+        "link": "https://www.icourse163.org/university/SCMZ"
+    },
+    {
+        "name": "蚌埠学院",
+        "link": "https://www.icourse163.org/university/PBXY"
+    },
+    {
+        "name": "河北中医药大学",
+        "link": "https://www.icourse163.org/university/ZYXY"
+    },
+    {
+        "name": "安顺市民族中等职业学校",
+        "link": "https://www.icourse163.org/university/ASSMZZDZY"
+    },
+    {
+        "name": "高等教育出版社",
+        "link": "https://www.icourse163.org/university/hep"
+    },
+    {
+        "name": "职教MOOC建设委员会",
+        "link": "https://www.icourse163.org/university/HEPSVE"
+    },
+    {
+        "name": "爱课程",
+        "link": "https://www.icourse163.org/university/icourse"
+    },
+    {
+        "name": "湖北长江互联网教育研究院",
+        "link": "https://www.icourse163.org/university/irong"
+    },
+    {
+        "name": "全国大学生数学建模竞赛组织委员会",
+        "link": "https://www.icourse163.org/university/cumcm"
+    },
+    {
+        "name": "全国高等学校学生信息咨询与就业指导中心",
+        "link": "https://www.icourse163.org/university/chesicc"
+    },
+    {
+        "name": "国家开放大学",
+        "link": "https://www.icourse163.org/university/TOUC"
+    },
+    {
+        "name": "四川计算机学会",
+        "link": "https://www.icourse163.org/university/SCF"
+    },
+    {
+        "name": "教育部大学生物学课程教学指导委员会",
+        "link": "https://www.icourse163.org/university/SWXJZW"
+    },
+    {
+        "name": "滁州学院",
+        "link": "https://www.icourse163.org/university/CHZU"
+    },
+    {
+        "name": "网易大学Nanjing University of Science and Technology1",
+        "link": "https://www.icourse163.org/university/netease"
+    },
+    {
+        "name": "培训需求",
+        "link": "https://www.icourse163.org/university/SYewec"
+    },
+    {
+        "name": "晋中学院",
+        "link": "https://www.icourse163.org/university/JZXY"
+    },
+    {
+        "name": "沈阳体育学院",
+        "link": "https://www.icourse163.org/university/SYTY"
+    },
+    {
+        "name": "产业学院试用学校",
+        "link": "https://www.icourse163.org/university/moocinner"
+    }
+]
